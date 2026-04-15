@@ -1,4 +1,3 @@
-```markdown
 # Problem Statement: Document Prototype Management System
 
 ## Background
